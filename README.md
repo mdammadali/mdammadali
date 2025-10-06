@@ -11,7 +11,7 @@
 - ```Programming Languages: ``` JavaScript, PHP, TypeScript
 - ```Frontend:``` ReactJS, ReduxJS, NextJS, HTML, CSS
 - ```Backend:``` NodeJS, ExpressJS, PHP
-- ```Frameworks:``` ExpressJS, Bootstrap, Tailwind, Laravel
+- ```Framework:``` ExpressJS, Bootstrap, Tailwind, Laravel
 - ```Databases:``` MySQL, MongoDB, Oracle, Firebase
 - ```Tools:``` Git, Docker, AWS
 - ```Version Control:``` GitHub, BitBucket
